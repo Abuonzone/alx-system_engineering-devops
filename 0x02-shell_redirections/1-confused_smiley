@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -en "😟\n"
+echo -en "😕\n"
